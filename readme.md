@@ -20,7 +20,7 @@ T2T converts the coordinates on the ground into the coordinates in the image.
 
 ### install
 
-1. Click the 'Clone or Download' button, then click 'Download ZIP' in the small dialog.
+1. Click the 'Code' button, then click 'Download ZIP' in the small dialog.
 2. Unzip the downloaded Zip file
 3. Start the terminal and move the current directory to the directory where you unzipped the zip file. Type as follows:
 4. meson _build
